@@ -1,0 +1,17 @@
+.timeline {
+  margin-top: 12px;
+  padding-left: 18px;
+  border-left: 4px solid #2f2f2f;
+}
+
+.timeline-item {
+  background: #f0f0f0;
+  border-radius: 10px;
+  padding: 12px;
+  margin: 0 0 12px 0;
+}
+
+.timeline-item .date {
+  margin: 0;
+  font-weight: bold;
+}
